@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Pedro K. Scheurer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroScheurer" alt="PedroScheurer" /> </p>
 
