@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Dedar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smdedar" alt="smdedar" /> </p>
+<h1 align="center">Hi 👋, I'm Pedro K. Scheurer</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroScheurer" alt="PedroScheurer" /> </p>
 
-<!-- - 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis) -->
+<!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning **ML & Data Science**
+- 🌱 I’m currently learning **Back-End Web Development**
 
-- 📫 How to reach me **devded@pm.me**
+- 📫 How to reach me **pedrokgsr@hotmail.com**
 
 <!-- ### 💻 Stack I Work With
 
